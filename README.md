@@ -5,7 +5,6 @@
   <a href="mailto:otaviolima3005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-## My Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Otávio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Otávio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,4 +15,4 @@
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottaviolima&theme=blue-white">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otaviodevzl&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFFF&text_color=FFF&border_radius=3&border_color=24edaa&icon_color=FFFF&theme=jolly" alt="GitHub stats">
